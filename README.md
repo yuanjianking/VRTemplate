@@ -9,6 +9,7 @@
 * 修改Source文件里VRTemplate.Target.cs
 * 修改Source文件里模块文件夹名称
 * 修改Source文件里VRTemplate.Build.cs
+* 修改头文件里面_API宏定义
 
 #### 配置了oculus支持，添加了控件交互，便于不要每次都繁琐的配置这些东西。
 
